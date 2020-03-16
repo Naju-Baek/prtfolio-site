@@ -4,4 +4,4 @@
 
 온라인상에 배포되는 free template를 사용했습니다.
 
-https://naju-baek.github.io/prtfolio-site/index.html
+https://baby-lamb.github.io/prtfolio-site/
