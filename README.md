@@ -7,6 +7,7 @@
 아래의 샘플페이지에서 확인할 수 있습니다.
 https://baby-lamb.github.io/simplepage-html-jquery/
 
-![1591700137933](https://user-images.githubusercontent.com/59804940/84139739-6206a480-aa8b-11ea-8037-8aaea9b47df4.jpg)
 ![1591700105837](https://user-images.githubusercontent.com/59804940/84139743-6337d180-aa8b-11ea-98df-13285cd6d230.jpg)
+![1591700137933](https://user-images.githubusercontent.com/59804940/84139739-6206a480-aa8b-11ea-8037-8aaea9b47df4.jpg)
+
 
